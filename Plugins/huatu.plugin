@@ -4,6 +4,7 @@
 #!tag = 去广告
 #!icon = https://raw.githubusercontent.com/xiaohua63/Loon/main/Icons/app/huatu.png
 #!date = 2024-11-19 17:20
+#!category = xiaohua
 
 [Rule]
 # 拦截HTTPDNS
