@@ -25,4 +25,4 @@
 ^https:\/\/ke\.fenbi\.com\/iphone\/v3\/remind\/instant reject-dict
 
 [Mitm]
-hostname = ke.fenbi.com, tiku.fenbi.com, market-api.fenbi.com, keapi.fenbi.com
+hostname = %APPEND% ke.fenbi.com, tiku.fenbi.com, market-api.fenbi.com, keapi.fenbi.com
