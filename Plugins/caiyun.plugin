@@ -3,7 +3,7 @@
 #!author = xiaohua63[https://github.com/xiaohua63]
 #!icon = https://raw.githubusercontent.com/xiaohua63/Loon/main/Icons/app/caiyun.png
 #!date = 2024-09-28 10:30
-#!category=xiaohua
+#!category=小花
 
 [Rule]
 DOMAIN, abyss.cyapi.cn, REJECT
