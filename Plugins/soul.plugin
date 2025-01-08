@@ -3,6 +3,7 @@
 #!author = ZenmoFeiShi[https://github.com/ZenmoFeiShi], xiaohua63[https://github.com/xiaohua63], 可莉🅥[https://gitlab.com/lodepuly/vpn_tool]
 #!icon = https://raw.githubusercontent.com/xiaohua63/Loon/main/Icons/app/soul.png
 #!date = 2024-10-15 10:20
+#!category = xiaohua
 
 [Rule]
 # 地理位置 - 影响注册账号时的属地判断
