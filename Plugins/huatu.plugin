@@ -30,4 +30,4 @@
 
 
 [Mitm]
-hostname = hostname=ns.huatu.com,ocfapi.huatu.com,yyfapi.huatu.com
+hostname = %APPEND% ns.huatu.com,ocfapi.huatu.com,yyfapi.huatu.com
