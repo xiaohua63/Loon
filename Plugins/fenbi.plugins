@@ -1,10 +1,10 @@
- #!name = 粉笔去除广告
+#!name = 粉笔去除广告
 #!desc = 移除开屏广告。
 #!author = 小花🅥[https://github.com/xiaohua63/loon/main/README.md]
 #!tag = 去广告
 #!icon = https://raw.githubusercontent.com/xiaohua63/Loon/main/Icons/app/fenbi.png
 #!date = 2024-11-19 17:24
-#!category = xiaohua
+#!category=小花
 
 [Rule]
 # 拦截HTTPDNS
