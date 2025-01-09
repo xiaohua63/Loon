@@ -15,8 +15,10 @@
 ^https:\/\/market-api\.fenbi\.com\/iphone\/v1\/assistant\/my - reject
 # 粉笔会员中心
 ^https:\/\/ke\.fenbi\.com\/iphone\/v3\/user_member\/entry - reject
-# 粉笔左下角广告
+# 粉笔左下角广告手机上特训营类的
 ^https:\/\/keapi\.fenbi\.com\/app\/iphone\/szyf\/small_banner - reject
+# 粉笔左下角广告平板上特训营类的
+^https:\/\/keapi\.fenbi\.com\/app\/ipad\/szyf\/small_banner - reject
 # 粉笔最上边大图片，注释掉了，使用会导致不美观
 #^https:\/\/tiku\.fenbi\.com\/iphone\/szyf\/banners\/v2 - reject
 # 粉笔左下角pdf
